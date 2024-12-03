@@ -1,8 +1,4 @@
 <h2>Hey there, I'm Matt!</h2>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=Discord&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=discord&prefix=javamatt%230001&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=Steam&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=steam&prefix=javamatt&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=Twitter&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=twitter&prefix=@mattdotcpp&color=black" height="20" /></a>
-<h2></h2>
 <ul>
   <p>📖 I am currently striving to obtain my associates degree in Computer Science and eventually my Bachelor's degree!</p>
   <p>💻 I mainly program in my free time, which is not a lot! I also put my projects from my Comp Sci classes here as well.</p>
@@ -11,12 +7,12 @@
 </ul>
 <h2></h2>
 <h4>🛠️ Tech Stack</h4>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=java&prefix=Java&color=black" height="20" /></a> 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=cplusplus&prefix=C%2B%2B&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=javascript&prefix=Javascript&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=html5&prefix=HTML&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=css3&prefix=CSS&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=nodedotjs&prefix=Node.js&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=github&prefix=GitHub&color=black" height="20" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/xml?label=&url=https%3A%2F%2Fwww.google.com&query=%22%20%22&style=flat&logo=visualstudiocode&prefix=Visual%20Studio%20Code&color=black" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/JavaScript-Programming%20Language-black?style=flat&logo=javascript" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/Java-Programming%20Language-black?style=flat&logo=java" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/C++-Programming%20Language-black?style=flat&logo=cplusplus" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/HTML5-Markup%20Language-black?style=flat&logo=html5" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/CSS3-Markup%20Language-black?style=flat&logo=css3" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/Node.js-JavaScript%20Environment-black?style=flat&logo=nodedotjs" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/GitHub-Tool-black?style=flat&logo=github" height="20" /></a>
+<a href="URL_REDIRECT" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-Editor-black?style=flat&logo=visualstudiocode" height="20" /></a>
 <h2></h2>
